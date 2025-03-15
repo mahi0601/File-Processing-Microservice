@@ -1,0 +1,10 @@
+[2025-03-12 10:00:01] ERROR Something failed here.
+[2025-03-12 10:01:45] INFO Server started on 192.168.0.10
+[2025-03-12 10:03:21] WARNING Memory usage high
+[2025-03-12 10:04:52] ERROR Database connection timeout
+[2025-03-12 10:05:23] INFO Request from 10.0.0.4
+[2025-03-12 10:06:14] ERROR Disk full on node-2
+[2025-03-12 10:07:30] INFO Connection from 192.168.1.5
+[2025-03-12 10:08:47] WARNING CPU temperature high
+[2025-03-12 10:09:56] ERROR User authentication failed
+[2025-03-12 10:11:13] INFO Request from 10.0.0.6
